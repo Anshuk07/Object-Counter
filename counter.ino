@@ -8,7 +8,7 @@ int input = A0;
 int state = 1;
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-
+//In git
 void setup() {
   lcd.init();
   lcd.backlight();
