@@ -17,7 +17,9 @@ Industrial production lines churn out products from raw materials all the time. 
 Manually counting the endless supply of products coming out is not possible for a human being. A human will inevitably loose track at a time. So here we develop an automatic product line counter system to automate this task. This system provides the following advantages:
 
 •	Automated Tireless counting
+
 •	Keep Count Data Stored as well as Display live count
+
 •	No Error probability in counting
 
 
