@@ -24,7 +24,13 @@ Manually counting the endless supply of products coming out is not possible for 
 
 ### Circuit Diagram:
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
+
+### Components:
+
+#### 1. Arduino Uno:
+#### 2. IR sensor 
+#### 3. LCD 16*2 
+#### 4. I2C 1602 TWI module 
 
 
