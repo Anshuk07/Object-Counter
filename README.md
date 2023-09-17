@@ -22,5 +22,9 @@ Manually counting the endless supply of products coming out is not possible for 
 
 •	No Error probability in counting
 
+### Circuit Diagram:
+
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
 
 
