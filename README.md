@@ -28,9 +28,10 @@ Manually counting the endless supply of products coming out is not possible for 
 
 ### Components:
 
-#### 1. Arduino Uno:
-#### 2. IR sensor 
-#### 3. LCD 16*2 
-#### 4. I2C 1602 TWI module 
+  #### 1. Arduino Uno:
+  #### 2. IR sensor 
+  #### 3. LCD 16*2 
+  #### 4. I2C 1602 TWI module 
 
+### Code:
 
