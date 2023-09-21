@@ -29,10 +29,20 @@ Manually counting the endless supply of products coming out is not possible for 
 ### Components:
 
   #### 1. Arduino Uno:
-  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" style="width: 400px; height: 200px;" width="400" height="200"/>
-  #### 2. IR sensor 
-  #### 3. LCD 16*2 
-  #### 4. I2C 1602 TWI module 
+  
+  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  
+  #### 2. IR sensor:
+  
+  <img src="https://makerbazar.in/cdn/shop/products/Untitled-1_29_1_1024x.jpg?v=1582882342" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  
+  #### 3. LCD 16*2:
+  
+  <img src="https://m.media-amazon.com/images/I/41WzWE5uF5L.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  
+  #### 4. I2C 1602 TWI module:
+  
+  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
 
 ### Code:
 
