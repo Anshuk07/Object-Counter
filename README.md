@@ -42,7 +42,7 @@ Manually counting the endless supply of products coming out is not possible for 
   
   #### 4. I2C 1602 TWI module:
   
-  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  <img src="https://5.imimg.com/data5/SELLER/Default/2021/7/LM/KV/VS/84973740/mo63-iic-or-i2c-or-twi-or-spi-serial-interface-board-module-for-arduino-1602-lcd-display.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
 
 ### Code:
 
