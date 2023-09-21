@@ -25,6 +25,9 @@ Manually counting the endless supply of products coming out is not possible for 
 ### Circuit Diagram:
 
 
+  <img src="Arduino to IR module GND-GND ICSP 5V-VCC OUT-A0 (1).jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+
+
 
 ### Components:
 
