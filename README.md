@@ -29,7 +29,7 @@ Manually counting the endless supply of products coming out is not possible for 
 ### Components:
 
   #### 1. Arduino Uno:
-  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" style="width: 600px; height: 400px;" width="600" height="400"/>
+  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" style="width: 400px; height: 200px;" width="400" height="200"/>
   #### 2. IR sensor 
   #### 3. LCD 16*2 
   #### 4. I2C 1602 TWI module 
