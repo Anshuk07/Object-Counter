@@ -27,15 +27,11 @@ Manually counting the endless supply of products coming out is not possible for 
 ![Arduino to IR module GND-GND ICSP 5V-VCC OUT-A0 (1)](https://github.com/Anshuk07/Object-Counter/assets/138325415/fe80cda4-364d-4381-b472-d3a842f6db24)
 
 
-  <img src="Arduino to IR module GND-GND ICSP 5V-VCC OUT-A0 (1).jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
-
-
-
 ### Components:
 
   #### 1. Arduino Uno:
   
-  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 400px;" width="400" height="400"/>
   
   #### 2. IR sensor:
   
