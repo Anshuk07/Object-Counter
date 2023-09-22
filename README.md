@@ -31,7 +31,7 @@ Manually counting the endless supply of products coming out is not possible for 
 
   #### 1. Arduino Uno:
   
-  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 400px;" width="400" height="400"/>
+  <img src="https://5.imimg.com/data5/XI/KF/MY-4167793/arduino-uno-smd-500x500.jpg" target ="_blank" style="width: 400px; height: 300px;" width="400" height="300"/>
   
   #### 2. IR sensor:
   
