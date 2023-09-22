@@ -35,7 +35,7 @@ Manually counting the endless supply of products coming out is not possible for 
   
   #### 2. IR sensor:
   
-  <img src="https://makerbazar.in/cdn/shop/products/Untitled-1_29_1_1024x.jpg?v=1582882342" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  <img src="https://makerbazar.in/cdn/shop/products/Untitled-1_29_1_1024x.jpg?v=1582882342" target ="_blank" style="width: 400px; height: 300px;" width="400" height="300"/>
   
   #### 3. LCD 16*2:
   
@@ -43,7 +43,7 @@ Manually counting the endless supply of products coming out is not possible for 
   
   #### 4. I2C 1602 TWI module:
   
-  <img src="https://5.imimg.com/data5/SELLER/Default/2021/7/LM/KV/VS/84973740/mo63-iic-or-i2c-or-twi-or-spi-serial-interface-board-module-for-arduino-1602-lcd-display.jpg" target ="_blank" style="width: 400px; height: 200px;" width="400" height="200"/>
+  <img src="https://5.imimg.com/data5/SELLER/Default/2021/7/LM/KV/VS/84973740/mo63-iic-or-i2c-or-twi-or-spi-serial-interface-board-module-for-arduino-1602-lcd-display.jpg" target ="_blank" style="width: 400px; height: 300px;" width="400" height="300"/>
 
 ### Code:
 
